@@ -1,0 +1,7 @@
+gradio
+faster-whisper
+deep-translator
+gTTS
+librosa
+soundfile
+numpy
